@@ -4,7 +4,7 @@
 
 <ul>
   <li>💬 About me: <br> 
-    
+  <li>📚 Passionate about mathematics</li>
   <li>🌱 I’m currently learning <b>Big Data, Machine Learning and AI!</b></li>
   <li>👯 I’m looking to collaborate on projects :)</li>
   <li>⚡ Fun fact: I'm a Twin 
