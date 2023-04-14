@@ -12,7 +12,6 @@
 </ul>
 
 
-<details>
 <summary><b>Software Skills</b></summary>
   <h2 align='center'>Programming Languages</h2>
       <p align="center">
@@ -25,7 +24,7 @@
        <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="40" height="40"/><a/>
        <a href="https://www.mongodb.com/3" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/><a/>
     </p>
-</details>
+
 
 <h4 align='center' class='hello'>Feel free to get in touch with me, we can do wonderful projects together!</h4>
 <p align='center'>
