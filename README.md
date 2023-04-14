@@ -19,7 +19,7 @@
        <a href="https://www.mysql.com/" target="_blank"><img src="https://camo.githubusercontent.com/95a0d0dfd4854f5b873e2c5396064ab18a9e7b2ed7d7c5df1cf6197d6cd8eb29/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6c6f676f2d6d7973716c2d706e672f6c6f676f2d6d7973716c2d6d7973716c2d6c6f676f2d706e672d696d616765732d6172652d646f776e6c6f61642d6372617a79706e672d32312e706e67" alt="MySQL" width="40" height="40"/><a/>   
          <a href="https://spark.apache.org/" target="_blank"><img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Spark" width="40" height="40"/><a/>
          <a href="https://www.r-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515" alt="R" width="40" height="40"/><a/>
-           <a href="https://visualstudio.microsoft.com/es/" target="_blank"><img src="https://w7.pngwing.com/pngs/230/329/png-transparent-computer-icons-microsoft-visual-studio-visual-programming-language-icon-design-visual-studio-purple-violet-photography.png" alt="Visual Studio" width="40" height="40"/><a/>
+           <a href="https://visualstudio.microsoft.com/es/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="40" height="40"/><a/>
          
       </p>
           
