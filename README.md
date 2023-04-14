@@ -16,7 +16,7 @@
   <h2 align='center'>Programming Languages & Databases</h2>
       <p align="center">
         <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="40" height="40"/><a/>
-        <a href="https://www.java.com/es/" target="_blank"><img src="[https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png](https://camo.githubusercontent.com/5b4421dacef3d02185aeafc6890af674e58fa50872c8b933fe72c853882f7614/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667)" alt="Java" width="40" height="40"/><a/>
+        <a href="https://www.java.com/es/" target="_blank"><img src="https://camo.githubusercontent.com/5b4421dacef3d02185aeafc6890af674e58fa50872c8b933fe72c853882f7614/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667" alt="Java" width="40" height="40"/><a/>
        <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="40" height="40"/><a/>   
       </p>
           
