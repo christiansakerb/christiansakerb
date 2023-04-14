@@ -22,12 +22,7 @@
          
       </p>
           
-  <h2 align='center'>Databases</h2>
-    <p align="center">
-       <a href="https://www.mongodb.com/3" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/><a/>
-    </p>
-
-
+ 
 <h4 align='center' class='hello'>Feel free to get in touch with me, we can do wonderful projects together!</h4>
 <p align='center'>
   <a href="https://twitter.com/christiansaker" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" alt="Chris Twitter" height="20" width="20"/></a>
