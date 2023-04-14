@@ -20,8 +20,7 @@
          <a href="https://spark.apache.org/" target="_blank"><img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Spark" width="40" height="40"/><a/>
          <a href="https://www.r-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515" alt="R" width="40" height="40"/><a/>
            <a href="https://visualstudio.microsoft.com/es/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="40" height="40"/><a/>
-         
-      </p>
+
           
  
 <h4 align='center' class='hello'>Feel free to get in touch with me, we can do wonderful projects together!</h4>
