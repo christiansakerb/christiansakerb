@@ -28,6 +28,5 @@
 <p align='center'>
   <a href="https://twitter.com/christiansaker" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" alt="Chris Twitter" height="20" width="20"/></a>
   <a href="https://www.linkedin.com/in/christian-saker-272083192/" onclick='window.open("https://www.linkedin.com/in/christian-saker-272083192/");return false;'><img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="Chris LinkedIn" height="20" width="20" /></a>
-</p>
 
 
