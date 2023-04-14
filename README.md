@@ -15,10 +15,13 @@
 <summary><b>Software Skills</b></summary>
   <h2 align='center'>Programming Languages & Databases</h2>
       <p align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="40" height="40"/><a/>
-        <a href="https://www.java.com/es/" target="_blank"><img src="https://camo.githubusercontent.com/5b4421dacef3d02185aeafc6890af674e58fa50872c8b933fe72c853882f7614/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667" alt="Java" width="40" height="40"/><a/>
-       <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="40" height="40"/><a/>   
-         <a href="https://www.mysql.com/" target="_blank"><img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Spark" width="40" height="40"/><a/>
+        <a href="https://www.python.org/" target="_blank"><img src="https://camo.githubusercontent.com/5b4421dacef3d02185aeafc6890af674e58fa50872c8b933fe72c853882f7614/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667" alt="Java" width="40" height="40"/><a/>
+        
+         <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="40" height="40"/><a/>
+            
+       <a href="https://www.mysql.com/" target="_blank"><img src="https://camo.githubusercontent.com/95a0d0dfd4854f5b873e2c5396064ab18a9e7b2ed7d7c5df1cf6197d6cd8eb29/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6c6f676f2d6d7973716c2d706e672f6c6f676f2d6d7973716c2d6d7973716c2d6c6f676f2d706e672d696d616765732d6172652d646f776e6c6f61642d6372617a79706e672d32312e706e67" alt="MySQL" width="40" height="40"/><a/>   
+         
+         <a href="https://spark.apache.org/" target="_blank"><img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Spark" width="40" height="40"/><a/>
          
       </p>
           
