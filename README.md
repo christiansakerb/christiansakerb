@@ -68,8 +68,3 @@
 </p>
 
 
-
-<p align='center'>
-  <a href="https://forthebadge.com" target="_blank"><img align="center" src="https://forthebadge.com/images/badges/made-with-crayons.svg" alt="Forthebadge"/></a>
-</p>
-
