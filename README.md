@@ -1,5 +1,3 @@
-
-<h2 align="center"> Hi guys, I'm Christian! 🤙🏻... <h2>
 <h3 align="center">Data scientist developer</h3>
 
 <ul>
@@ -7,7 +5,6 @@
   <li>📚 Passionate about mathematics</li>
   <li>🌱 I’m currently learning <b>Big Data, Machine Learning and AI!</b></li>
   <li>👯 I’m looking to collaborate on projects :)</li>
-  <li>⚡ Fun fact: I'm a Twin 
 </ul>
 
 
