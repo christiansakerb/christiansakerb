@@ -8,6 +8,11 @@
 </ul>
 
 
+<p align="center">
+¡Hola! Soy un ingeniero industrial con enfoque en inteligencia analítica de datos para el manejo y análisis de información. Mi experiencia abarca entornos de programación, visualización y sólidos fundamentos estadísticos / matemáticos.
+
+Estoy convencido de que en la actualidad, el diamante en bruto de las organizaciones son las grandes cantidades de datos, y he sido testigo de su impacto positivo cuando se utilizan de manera inteligente.
+
 <summary><b>Software Skills</b></summary>
   <h2 align='center'>Programming Languages</h2>
       <p align="center">
