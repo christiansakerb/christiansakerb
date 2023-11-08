@@ -46,7 +46,9 @@ Adicionalmente cuento con experiencia en el desarrollo de visualizaciones dinám
                  <a href="https://github.com/christiansakerb" target="_blank"><img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="40" height="40"/><a/>
                  <a href="https://github.com/christiansakerb" target="_blank"><img src="https://cms.rootstack.com/sites/default/files/inline-images/AWS-logo-2.jpg" alt="AWS" width="40" height="40"/><a/>
 
-                  
+<p align="center">
+Además, poseo habilidades y experiencia en el uso de herramientas de control de versiones como Git y DVC, que son utilizadas para gestionar las modificaciones en el código y los modelos, lo que permite un seguimiento preciso de los cambios realizados y la trazabilidad de los datos utilizados en los modelos, incluyendo sus transformaciones. Además, cuento con experiencia en la implementación de modelos en máquinas virtuales de AWS y en el empaquetado de modelos y APIs.
+
  
 <h4 align='center' class='hello'>Feel free to get in touch with me, we can do wonderful projects together!</h4>
 <p align='center'>
