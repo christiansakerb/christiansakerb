@@ -9,13 +9,18 @@
 
 
 <summary><b>Software Skills</b></summary>
-  <h2 align='center'>Programming Languages & Databases</h2>
+  <h2 align='center'>Programming Languages</h2>
       <p align="center">
         <a href="https://www.python.org/" target="_blank"><img src="https://camo.githubusercontent.com/5b4421dacef3d02185aeafc6890af674e58fa50872c8b933fe72c853882f7614/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667" alt="Java" width="40" height="40"/><a/>
-       <a href="https://www.mysql.com/" target="_blank"><img src="https://camo.githubusercontent.com/95a0d0dfd4854f5b873e2c5396064ab18a9e7b2ed7d7c5df1cf6197d6cd8eb29/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6c6f676f2d6d7973716c2d706e672f6c6f676f2d6d7973716c2d6d7973716c2d6c6f676f2d706e672d696d616765732d6172652d646f776e6c6f61642d6372617a79706e672d32312e706e67" alt="MySQL" width="40" height="40"/><a/>   
+       <a href="https://www.mysql.com/" target="_blank"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="MySQL" width="40" height="40"/><a/>   
          <a href="https://www.r-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515" alt="R" width="40" height="40"/><a/>
-           <a href="https://visualstudio.microsoft.com/es/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="40" height="40"/><a/>
-             
+           <a href="https://visualstudio.microsoft.com/es/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" alt="Visual Studio" width="40" height="40"/><a/>
+           <p align="center">
+Cuento con habilidades en la generación de modelos de optimización e inteligencia artificial tanto del tipo supervisados como no supervisados en Python, para ser usados en contexto de regresión, clasificación y clustering
+
+Adicional de poder aprovechar la data estructurada puedo encontrar información en data no estructurada que se encuentran dentro de imágenes, análisis de texto, sentimientos, sistemas de recomendación colaborativa y técnicas de filtrado basadas en múltiples métodos estadísticos. Creo que la combinación de datos estructurados y no estructurados ofrece un abanico de oportunidades para el desarrollo de nueva tecnología y la toma de decisiones basadas en información.
+
+               
 <summary><b>Additional skills</b></summary>
   <h2 align='center'>Data Analysis</h2>
              <p align="center">
@@ -23,7 +28,16 @@
                  <a href="https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html" target="_blank"><img src="https://downloadly.ir/wp-content/uploads/2019/06/Arena-Simulation-1.png" alt="Arena" width="40" height="40"/><a/>
                  <a href="https://www.tableau.com/products/desktop" target="_blank"><img src="https://japio.com/wp-content/uploads/2022/02/Tableau-Icon.png" alt="Tableau" width="40" height="40"/><a/>
                  <a href="https://powerbi.microsoft.com/es-es/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/><a/>
-           
+
+Adicionalmente cuento con experiencia en el desarrollo de visualizaciones dinámicas de datos en Tableau y PowerBI desde las fuentes de datos, creando reportes en linea para la toma de decisiones y responder preguntas de negocios, creación de KPIs, y el análisis de decisiones
+
+<summary><b>Control Version</b></summary>
+  <h2 align='center'>Control Version</h2>
+  <p align="center">
+                 <a href="https://github.com/christiansakerb" target="_blank"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40"/><a/>
+                 <a href="https://github.com/christiansakerb" target="_blank"><img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="40" height="40"/><a/>
+
+                  
  
 <h4 align='center' class='hello'>Feel free to get in touch with me, we can do wonderful projects together!</h4>
 <p align='center'>
