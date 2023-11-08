@@ -17,7 +17,7 @@
            <a href="https://visualstudio.microsoft.com/es/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" alt="Visual Studio" width="40" height="40"/><a/>
            <p align="center">
 Cuento con habilidades en la generación de modelos de optimización e inteligencia artificial tanto del tipo supervisados como no supervisados en Python, para ser usados en contexto de regresión, clasificación y clustering
-
+<p align="center">
 Adicional de poder aprovechar la data estructurada puedo encontrar información en data no estructurada que se encuentran dentro de imágenes, análisis de texto, sentimientos, sistemas de recomendación colaborativa y técnicas de filtrado basadas en múltiples métodos estadísticos. Creo que la combinación de datos estructurados y no estructurados ofrece un abanico de oportunidades para el desarrollo de nueva tecnología y la toma de decisiones basadas en información.
 
                
@@ -28,8 +28,8 @@ Adicional de poder aprovechar la data estructurada puedo encontrar información 
                  <a href="https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html" target="_blank"><img src="https://downloadly.ir/wp-content/uploads/2019/06/Arena-Simulation-1.png" alt="Arena" width="40" height="40"/><a/>
                  <a href="https://www.tableau.com/products/desktop" target="_blank"><img src="https://japio.com/wp-content/uploads/2022/02/Tableau-Icon.png" alt="Tableau" width="40" height="40"/><a/>
                  <a href="https://powerbi.microsoft.com/es-es/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/><a/>
-
-Adicionalmente cuento con experiencia en el desarrollo de visualizaciones dinámicas de datos en Tableau y PowerBI desde las fuentes de datos, creando reportes en linea para la toma de decisiones y responder preguntas de negocios, creación de KPIs, y el análisis de decisiones
+<p align="center">
+Adicionalmente cuento con experiencia en el desarrollo de visualizaciones dinámicas de datos en Tableau y PowerBI desde las fuentes de datos, creando reportes en linea para la toma de decisiones y responder preguntas de negocios, creación de KPIs y mejora de la visibilidad de la información para el análisis de decisiones y transparencia de los datos.
 
 <summary><b>Control Version</b></summary>
   <h2 align='center'>Control Version</h2>
