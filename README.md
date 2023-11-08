@@ -37,7 +37,7 @@ Adicional de poder aprovechar la data estructurada puedo encontrar información 
                  <a href="https://www.tableau.com/products/desktop" target="_blank"><img src="https://japio.com/wp-content/uploads/2022/02/Tableau-Icon.png" alt="Tableau" width="40" height="40"/><a/>
                  <a href="https://powerbi.microsoft.com/es-es/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/><a/>
 <p align="center">
-Adicionalmente cuento con experiencia en el desarrollo de visualizaciones dinámicas de datos en Tableau y PowerBI desde las fuentes de datos, creando reportes en linea para la toma de decisiones y responder preguntas de negocios, creación de KPIs y mejora de la visibilidad de la información para el análisis de decisiones y transparencia de los datos.
+Además, poseo experiencia en la creación de visualizaciones interactivas de datos tanto en Tableau como en PowerBI, extrayendo información directamente de diversas fuentes de datos. He desarrollado informes en línea que respaldan la toma de decisiones y abordan preguntas comerciales clave. Además, tengo campo en la creación de KPIs (Indicadores Clave de Desempeño) y en la mejora de la accesibilidad de los datos, lo que facilita el análisis de decisiones y promueve la transparencia en la presentación de la información. Por otro lado, cuento con habilidades sólidas en Excel, incluyendo el uso de funciones avanzadas y la programación de macros en Visual Basic para automatizar procesos en la manipulación de informes y datos.
 
 <summary><b>Control Version</b></summary>
   <h2 align='center'>Control Version</h2>
