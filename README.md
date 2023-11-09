@@ -1,4 +1,4 @@
-<h3 align="center">Data scientist developer</h3>
+<h1 align="center"><b>Data scientist developer</b></h1>
 
 <ul>
   <li>💬 About me: <br> 
@@ -24,9 +24,9 @@ Estoy convencido de que en la actualidad, el diamante en bruto de las organizaci
          <a href="https://www.r-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515" alt="R" width="40" height="40"/><a/>
            <a href="https://visualstudio.microsoft.com/es/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" alt="Visual Studio" width="40" height="40"/><a/>
            <p align="center">
-Cuento con habilidades en la generación de modelos de optimización e inteligencia artificial tanto del tipo supervisados como no supervisados en Python, para ser usados en contexto de regresión, clasificación y clustering
+Poseo sólidas habilidades en la creación de modelos de optimización e inteligencia artificial, tanto supervisados como no supervisados, en Python. Estos modelos se aplican en el contexto de la minería de datos y la generación de análisis predictivos y prescriptivos, abarcando áreas como regresión, clasificación y clustering. Estas capacidades me permiten aprovechar eficazmente los datos para obtener información valiosa y tomar decisiones informadas.
 <p align="center">
-Adicional de poder aprovechar la data estructurada puedo encontrar información en data no estructurada que se encuentran dentro de imágenes, análisis de texto, sentimientos, sistemas de recomendación colaborativa y técnicas de filtrado basadas en múltiples métodos estadísticos. Creo que la combinación de datos estructurados y no estructurados ofrece un abanico de oportunidades para el desarrollo de nueva tecnología y la toma de decisiones basadas en información.
+Adicional de poder aprovechar la data estructurada puedo encontrar información en data no estructurada que se encuentran dentro de imágenes, análisis de texto, sentimientos, sistemas de recomendación colaborativa y técnicas de filtrado basadas en múltiples métodos estadísticos. Creo que la combinación de datos estructurados y no estructurados ofrece un abanico de oportunidades para el desarrollo y transformación de nueva tecnología y la toma de decisiones basadas en información.
 
                
 <summary><b>Additional skills</b></summary>
@@ -37,10 +37,10 @@ Adicional de poder aprovechar la data estructurada puedo encontrar información 
                  <a href="https://www.tableau.com/products/desktop" target="_blank"><img src="https://japio.com/wp-content/uploads/2022/02/Tableau-Icon.png" alt="Tableau" width="40" height="40"/><a/>
                  <a href="https://powerbi.microsoft.com/es-es/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/><a/>
 <p align="center">
-Además, poseo experiencia en la creación de visualizaciones interactivas de datos tanto en Tableau como en PowerBI, extrayendo información directamente de diversas fuentes de datos. He desarrollado informes en línea que respaldan la toma de decisiones y abordan preguntas comerciales clave. Además, tengo campo en la creación de KPIs (Indicadores Clave de Desempeño) y en la mejora de la accesibilidad de los datos, lo que facilita el análisis de decisiones y promueve la transparencia en la presentación de la información. Por otro lado, cuento con habilidades sólidas en Excel, incluyendo el uso de funciones avanzadas y la programación de macros en Visual Basic para automatizar procesos en la manipulación de informes y datos.
+Además, cuento experiencia en la creación de visualizaciones interactivas de datos tanto en Tableau como en PowerBI, extrayendo información directamente de diversas fuentes de datos. He desarrollado informes en línea que respaldan la toma de decisiones y abordan preguntas comerciales clave. Además, tengo campo en la creación de KPIs (Indicadores Clave de Desempeño) y en la mejora de la accesibilidad de los datos, lo que facilita el análisis de decisiones y promueve la transparencia en la presentación de la información. Por otro lado, cuento con habilidades sólidas en Excel, incluyendo el uso de funciones avanzadas y la programación de macros en Visual Basic para automatizar procesos en la manipulación de informes y datos.
 
-<summary><b>Control Version</b></summary>
-  <h2 align='center'>Control Version</h2>
+<summary><b>Control Version & Deploy</b></summary>
+  <h2 align='center'>Deploy & Control Version</h2>
   <p align="center">
                  <a href="https://github.com/christiansakerb" target="_blank"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40"/><a/>
                  <a href="https://github.com/christiansakerb" target="_blank"><img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="40" height="40"/><a/>
