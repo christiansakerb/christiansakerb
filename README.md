@@ -42,9 +42,9 @@ Además, cuento experiencia en la creación de visualizaciones interactivas de d
 <summary><b>Control Version & Deploy</b></summary>
   <h2 align='center'>Deploy & Control Version</h2>
   <p align="center">
-                 <a href="https://github.com/christiansakerb" target="_blank"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40"/><a/>
+                 <a href="https://github.com/christiansakerb" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GitHub" width="40" height="40"/><a/>
                  <a href="https://github.com/christiansakerb" target="_blank"><img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="40" height="40"/><a/>
-                 <a href="https://github.com/christiansakerb" target="_blank"><img src="https://cms.rootstack.com/sites/default/files/inline-images/AWS-logo-2.jpg" alt="AWS" width="40" height="40"/><a/>
+                 <a href="https://github.com/christiansakerb" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/><a/>
 
 <p align="center">
 Además, poseo habilidades y experiencia en el uso de herramientas de control de versiones como Git y DVC, que son utilizadas para gestionar las modificaciones en el código y los modelos, lo que permite un seguimiento preciso de los cambios realizados y la trazabilidad de los datos utilizados en los modelos, incluyendo sus transformaciones. Además, cuento con experiencia en la implementación de modelos en máquinas virtuales de AWS y en el empaquetado de modelos y APIs.
