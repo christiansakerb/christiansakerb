@@ -27,7 +27,8 @@ Estoy convencido de que en la actualidad, el diamante en bruto de las organizaci
 Poseo sólidas habilidades en la creación de modelos de optimización e inteligencia artificial, tanto supervisados como no supervisados, en Python. Estos modelos se aplican en el contexto de la minería de datos y la generación de análisis predictivos y prescriptivos, abarcando áreas como regresión, clasificación y clustering. Estas capacidades me permiten aprovechar eficazmente los datos para obtener información valiosa y tomar decisiones informadas.
 <p align="center">
 Adicional de poder aprovechar la data estructurada puedo encontrar información en data no estructurada que se encuentran dentro de imágenes, análisis de texto, sentimientos, sistemas de recomendación colaborativa y técnicas de filtrado basadas en múltiples métodos estadísticos. Creo que la combinación de datos estructurados y no estructurados ofrece un abanico de oportunidades para el desarrollo y transformación de nueva tecnología y la toma de decisiones basadas en información.
-
+<p align="center">
+Cuento con experiencia y habilidades en generación de consultas en SQL en bases de datos como Oracle y MySql. Mi destreza se centra en la creación de pipelines y procesos de ETL, donde manejo la extracción de datos e ingestas eficientes en las tablas pertinentes. 
                
 <summary><b>Additional skills</b></summary>
   <h2 align='center'>Data Analysis</h2>
