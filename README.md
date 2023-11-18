@@ -45,6 +45,7 @@ Además, cuento experiencia en la creación de visualizaciones interactivas de d
   <p align="center">
                  <a href="https://github.com/christiansakerb" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GitHub" width="40" height="40"/><a/>
                  <a href="https://github.com/christiansakerb" target="_blank"><img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="40" height="40"/><a/>
+                   <a href="https://github.com/christiansakerb" target="_blank"><img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLFLOW" width="40" height="40"/><a/>
                  <a href="https://github.com/christiansakerb" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/><a/>
 
 <p align="center">
