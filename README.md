@@ -7,15 +7,6 @@
   <li>👯 I’m looking to collaborate on projects :)</li>
 </ul>
 
-
-
-  <h2 align='center'>Sobre mi</h2>
-
-<p align="center">
-¡Hola! Soy un ingeniero industrial con enfoque en inteligencia analítica de datos para el manejo y análisis de información. Mi experiencia abarca entornos de programación, visualización y sólidos fundamentos estadísticos / matemáticos.
-<p align="center">
-Estoy convencido de que en la actualidad, el diamante en bruto de las organizaciones son las grandes cantidades de datos, y he sido testigo de su impacto positivo cuando se utilizan de manera inteligente.
-
   <h2 align='center'>Programming Languages</h2>
       <p align="center">
         <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Java" width="40" height="40"/><a/>
