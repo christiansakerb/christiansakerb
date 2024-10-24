@@ -5,7 +5,9 @@
   <li>📚 Passionate about mathematics, programming, and business intelligence</li>
   <li>🌱 My experience includes: <b>Big Data, BI, Machine Learning and AI!</b></li>
   <li>👯 I’m looking to collaborate on projects :)</li>
-</ul>
+
+- ⚒️ **Currently working on:** A project analyzing **market basket** patterns to predict purchasing behaviors and trends.
+- 📖 **Continuously expanding my knowledge in:** Data analysis, machine learning, and other related topics that support my project goals.</ul>
 
   <h2 align='center'>Programming Languages</h2>
       <p align="center">
