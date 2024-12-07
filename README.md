@@ -2,7 +2,7 @@
 
 <ul>
   <li>💬 About me: <br> 
-  <li>📚 Passionate about mathematics, programming, and business intelligence</li>
+  <li>📚 Passionate about mathematics, programming, and Analytics intelligence</li>
   <li>🌱 My experience includes: <b>Big Data, BI, Machine Learning and AI!</b></li>
   <li>👯 I’m looking to collaborate on projects :)</li>
 
