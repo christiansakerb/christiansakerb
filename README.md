@@ -14,7 +14,6 @@
         <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Java" width="40" height="40"/><a/>
        <a href="https://www.mysql.com/" target="_blank"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="MySQL" width="40" height="40"/><a/>   
          <a href="https://www.r-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515" alt="R" width="40" height="40"/><a/>
-           <a href="https://visualstudio.microsoft.com/es/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" alt="Visual Studio" width="40" height="40"/><a/>
            <p align="center">
                
   <h2 align='center'>Data Analysis</h2>
